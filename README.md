@@ -7,7 +7,11 @@
 #How to Use HousingYou
 
 #Create a free account using your student email.
+
 #Search for Accommodation by using our search filters to find properties that match your needs (location, price, amenities, etc.).
+
 #Read Reviews by Checking out what other students have to say about different properties.
+
 #Rate Your Accommodation if you live in a property, share your experience with others by writing a review.
+
 #Connect with Other Students by Joining the HousingYou community to ask questions, share tips, and find roommates.
